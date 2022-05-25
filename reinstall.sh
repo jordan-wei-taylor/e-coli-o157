@@ -1,0 +1,1 @@
+pip uninstall genolearn -y; pip install ../genolearn/.; clear

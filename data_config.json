@@ -1,0 +1,7 @@
+{
+    "path": "data",
+    "meta_path": "raw-data/meta-data.csv",
+    "identifier": "Accession",
+    "target": "Region",
+    "group": "Year"
+}

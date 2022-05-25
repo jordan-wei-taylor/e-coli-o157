@@ -1,0 +1,19 @@
+# additional files from running (I)Python
+__pycache__
+*ipynb_checkpoints*
+
+# virtual python env
+env
+
+# preprocessed data
+data
+data-low-memory
+data-batch
+
+!data_config.json
+
+# raw-data
+raw-data
+
+# testing files / directories
+test*
