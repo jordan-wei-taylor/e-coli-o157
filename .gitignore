@@ -5,15 +5,8 @@ __pycache__
 # virtual python env
 env
 
-# preprocessed data
-data
-data-low-memory
-data-batch
-
-!data_config.json
-
-# raw-data
-raw-data
+# data folders
+*data*/
 
 # testing files / directories
 test*
